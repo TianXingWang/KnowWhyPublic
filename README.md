@@ -2,7 +2,7 @@
 
 本项目旨在让用户可以像使用 LeetCode 一样通过问答式的题目巩固自己的技术知识，可供面试刷题训练等场景使用
 
-**技术栈：SpringBoot + MySQL + Redis + Elasticsearch + Sa-Token + Sentinel + Nacos + Druid + DeepSeek – R1**
+**技术栈：SpringBoot + MySQL + MyBatis + Redis + Elasticsearch + Sa-Token + Sentinel + Nacos + DeepSeek – R1**
 
 * 基于 Sa-Token + Redis + JWT 实现用户登录和操作鉴权，依据 UserAgent 实现同端登录冲突检测功能；
 
